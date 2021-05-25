@@ -1,4 +1,0 @@
-public statc void main
-{
-
-}
